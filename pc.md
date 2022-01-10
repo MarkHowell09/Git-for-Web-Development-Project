@@ -21,8 +21,14 @@ Welcome to day 1 at BloomTech, today we are going to spend time setting up your 
 Now that you are all set up, it's time to learn a little more about the tools of the trade. Edit this file and answer the following questions. You can type your answer below the questions. You are going to need to start familiarizing yourself with the [GitHub docs](https://docs.github.com/en) doc short for documentation are the instructions on how to use a languge, or program. A large part of your job as a developer will be learning how to read and work with documentation. Please reference the GitHub docs when answering the questions below. If you cannot find what you are looking for in the docs, you can always start to practice your google skills. 
 
 1. What is git? What is the difference between git and GitHub?
+Git is the terminal, a more direct way to use commands to talk to your computer. GitHub is the online site used as a cloud for people to work on projects together.
 2. Why do we create a branch? 
+we create a branch to perfect our code before merging it.
 3. What is the purpose of a pull request? 
+Pull requests are used so that groups can check code from each persons branch before merging.
 4. What is the command you can use to switch between branches? For example you are working on a feature branch and you want to switch back to main. 
+git checkout
 5. Explain the difference between `git fetch`, `git merge` and `git pull` what does each command do? 
+fetch pulls multiple repos, merge combines changes from chosen branches, pull adds changes from remote repository to current branch.
 6. What is a merge conflict? How do you resolve a merge conflict? 
+when changes both are to the same part the computer wont know which to choose, to fix this you can choose not to merge one or use mergetool.

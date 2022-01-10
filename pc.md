@@ -32,3 +32,4 @@ git checkout
 fetch pulls multiple repos, merge combines changes from chosen branches, pull adds changes from remote repository to current branch.
 6. What is a merge conflict? How do you resolve a merge conflict? 
 when changes both are to the same part the computer wont know which to choose, to fix this you can choose not to merge one or use mergetool.
+addition to test push
